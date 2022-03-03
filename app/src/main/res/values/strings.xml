@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">E-RENT</string>
+    <string name="splash">splash</string>
+    <string name="e_rent">E-RENT</string>
+    <string name="payment_made_easier">Payment Made Easier</string>
+    <string name="tenant_registration">Tenant Registration</string>
+    <string name="landlord_registration">LandLord Registration</string>
+    <string name="icon">icon</string>
+    <string name="welcome_back">Welcome Back!!!</string>
+    <string name="e_rent_landlord">E-RENT LandLord</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="do_not_have_an_account">Do Not Have An Account?</string>
+    <string name="register">Register</string>
+    <string name="e_rent_tenant">E-RENT Tenant</string>
+</resources>

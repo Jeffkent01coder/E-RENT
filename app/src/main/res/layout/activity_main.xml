@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/home"
+        android:layout_marginTop="70dp"
+        android:layout_marginHorizontal="50dp"
+        android:contentDescription="@string/splash"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/e_rent"
+        android:layout_marginTop="50dp"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/payment_made_easier"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:textColor="@color/black"
+        />
+
+
+</LinearLayout>
