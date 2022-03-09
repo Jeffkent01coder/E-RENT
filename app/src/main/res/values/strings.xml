@@ -14,4 +14,13 @@
     <string name="do_not_have_an_account">Do Not Have An Account?</string>
     <string name="register">Register</string>
     <string name="e_rent_tenant">E-RENT Tenant</string>
+    <string name="hello_e_rent">Hello E-RENT</string>
+    <string name="landlord">LandLord</string>
+    <string name="register_with_us">Register With Us</string>
+    <string name="landlord_name">LandLord Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="location">Location</string>
+    <string name="house_type">House Type</string>
+    <string name="number_of_houses">Number Of Houses</string>
+    <string name="already_have_an_account">Already Have An Account?</string>
 </resources>
