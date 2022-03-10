@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ERENT">
         <activity
+            android:name=".ui.Profile"
+            android:exported="false" />
+        <activity
             android:name=".ui.AdminHome"
             android:exported="false" />
         <activity
