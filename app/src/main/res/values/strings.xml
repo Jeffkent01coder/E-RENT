@@ -23,4 +23,19 @@
     <string name="house_type">House Type</string>
     <string name="number_of_houses">Number Of Houses</string>
     <string name="already_have_an_account">Already Have An Account?</string>
+    <string name="tenant">Tenant</string>
+    <string name="tenant_name">Tenant Name</string>
+    <string name="house_number">House Number</string>
+    <string name="house_rent">House Rent</string>
+    <string name="e_rent_users">E-RENT USERS</string>
+    <string name="tenants_requests">Tenants Requests</string>
+    <string name="info_center">Info Center</string>
+    <string name="about">About</string>
+    <string name="check_payments">Check Payments</string>
+    <string name="x">x</string>
+    <string name="y">y</string>
+    <string name="o">o</string>
+    <string name="in">in</string>
+    <string name="ab">ab</string>
+    <string name="e_rent_admin">E-RENT ADMIN</string>
 </resources>

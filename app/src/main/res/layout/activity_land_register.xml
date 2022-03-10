@@ -55,7 +55,7 @@
             android:hint="@string/landlord_name"
             android:maxLines="1"
             android:maxLength="30"
-            android:inputType="textEmailAddress"
+            android:inputType="text"
             android:drawableStart="@drawable/ic_baseline_person_24"
             />
 
@@ -74,7 +74,7 @@
             android:hint="@string/phone_number"
             android:maxLines="1"
             android:maxLength="30"
-            android:inputType="textEmailAddress"
+            android:inputType="number"
             android:drawableStart="@drawable/ic_baseline_phone_android_24"
             />
 
@@ -112,7 +112,7 @@
             android:hint="@string/password"
             android:maxLines="1"
             android:maxLength="30"
-            android:inputType="textEmailAddress"
+            android:inputType="textPassword"
             android:drawableStart="@drawable/ic_baseline_security_24"
             />
 
@@ -131,7 +131,7 @@
             android:hint="@string/location"
             android:maxLines="1"
             android:maxLength="30"
-            android:inputType="textEmailAddress"
+            android:inputType="text"
             android:drawableStart="@drawable/ic_baseline_my_location_24"
             />
 
@@ -150,7 +150,7 @@
             android:hint="@string/house_type"
             android:maxLines="1"
             android:maxLength="30"
-            android:inputType="textEmailAddress"
+            android:inputType="text"
             android:drawableStart="@drawable/ic_baseline_house_24"
             />
 
@@ -169,7 +169,7 @@
             android:hint="@string/number_of_houses"
             android:maxLines="1"
             android:maxLength="30"
-            android:inputType="textEmailAddress"
+            android:inputType="number"
             android:drawableStart="@drawable/ic_baseline_format_list_numbered_24"
             />
 
